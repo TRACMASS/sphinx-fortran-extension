@@ -1,7 +1,7 @@
 Purpose
 =======
 
-This package provides two Sphinx (http://sphinx.pocoo.org/) extensions 
+This package provides 2 Sphinx (http://sphinx.pocoo.org/) extensions 
 to the Fortran (90) language:
 - sphinxfortran.fortran_domain: Sphinx domain for fortran.
 - sphinxfortran.fortran_autodoc: Auto-documenting fortran code.
@@ -16,6 +16,7 @@ Installation
 ============
 
 python setup.py install
+* type this command in your terminal
 
 Quick start
 ===========
